@@ -9,27 +9,24 @@ skin: "blue"
 basic_info:
 
     # Your full name
-    first_name: Wonder
-    last_name: Woman
+    first_name: Paola Catalina
+    last_name: Chávez Arbeláez
     
     # Define yourself in 4-5 words
     motto: I am an anachronism
     
     # Focus
-    focus: Killing Bad Boys
+    focus: Programming... programming and programming
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
-      Summarize your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am a person curious about learning, with a solid academic background in mathematics and physics. My passion for learning and teaching has led me to complete three master's degrees: one in Science Teaching, another in Teacher Training and the last in Mathematics. This combination of technical and pedagogical knowledge makes me a versatile professional committed to education and technology.
 
-      Second paragraph if required.
+      I'm currently expanding my tech skills through an intensive coding bootcamp. This step demonstrates my constant search for professional growth and my desire to stay up to date with the latest trends in the sector. This profile is a clear example of dedication, adaptability and passion for innovation, qualities that stand out in the competitive world of programming and teaching.
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://randomuser.me/api/portraits/women/24.jpg
+    avatar: https://i.ibb.co/1LXsCwX/IMG-1318.jpg
 
     # Contact Information
     email: a@a.com #optional
@@ -40,7 +37,7 @@ basic_info:
     #
     # ******** IMPORTANT *******
     # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: example
+    github: Anacronica
     
     twitter: 'webjeda' #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -48,105 +45,95 @@ basic_info:
     # Languages you speak, levels include: Native, Professional
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     # Interests or hobbies
     interests:
+      - item: Read
+
+      - item: Write
+
       - item: Climbing
-
-      - item: Snowboarding
-
-      - item: Cooking
 
 # Your previous education
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - master degree: Máster interuniversitario en matemáticas
+      university: Universidad de Cádiz
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2011 - 2012
+      university_logo: https://www.google.com/imgres?imgurl=https%3A%2F%2Fgabcomunicacion.uca.es%2Fwp-content%2Fuploads%2F2021%2F07%2Flogo_V2_COLOR_100x142mm.png&tbnid=K-bVpppBjZ3onM&vet=12ahUKEwjLpbblorWGAxUaVqQEHZOWAZAQMygEegQIARBQ..i&imgrefurl=https%3A%2F%2Fgabcomunicacion.uca.es%2Fidentidad-visual%2Flogosimbolos%2F&docid=S4vW6XpLXk-4ZM&w=1181&h=1671&q=universidad%20de%20C%C3%A1diz%20logo&hl=es&ved=2ahUKEwjLpbblorWGAxUaVqQEHZOWAZAQMygEegQIARBQ
+      time: 2019 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        trabajo en investigación con el grupo de investigación Geodesia y Geofísica de la universidad de Cádiz
 
-          - Bullet point
-          - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - master degree: Máster Universitario en Profesorado de Educación Secundaria y Bachillerato, Formación Profesional y Enseñanza de Idiomas.
+      university: Universidad de Cádiz
       # optional
-      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-      time: 2007 - 2011
+      university_logo: https://www.google.com/imgres?imgurl=https%3A%2F%2Fgabcomunicacion.uca.es%2Fwp-content%2Fuploads%2F2021%2F07%2Flogo_V2_COLOR_100x142mm.png&tbnid=K-bVpppBjZ3onM&vet=12ahUKEwjLpbblorWGAxUaVqQEHZOWAZAQMygEegQIARBQ..i&imgrefurl=https%3A%2F%2Fgabcomunicacion.uca.es%2Fidentidad-visual%2Flogosimbolos%2F&docid=S4vW6XpLXk-4ZM&w=1181&h=1671&q=universidad%20de%20C%C3%A1diz%20logo&hl=es&ved=2ahUKEwjLpbblorWGAxUaVqQEHZOWAZAQMygEegQIARBQ
+      time: 2019 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Especialidad matemáticas. Prácticas la Salle buen consejo, con un diseño de UDI, evaluado por ambas coordinadoras con matrícula de honor, TFM en investigación en actitud hacia las matemáticas, un estudio comparativo entre Colombia y España.
+    
+    - master degree: Máster en Investigación en la enseñanza y el aprendizaje de las ciencias experimentales, sociales y matemáticas.
+      university: Universidad de Huelva
+      # optional
+      university_logo: https://www.uhu.es/comunicacion/sites/comunicacion/files/2023-11/logoUHU_mixto_1472x804px.png
+      time: 2015 - 2016
+      details: |
+        Especialidad ciencias experimentales. TFM investigación en el desarrollo de la inteligencia emocional a través de la enseñanza de la física
 
-          - Bullet point
-          - Bullet point
+    - degree: Licenciatura en Matemáticas y Física
+      university: Universidad de Antioquia
+      # optional
+      university_logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Escudo-UdeA.svg/800px-Escudo-UdeA.svg.png
+      time: 2007 - 2014
+      details: |
+        Desarrollo de habilidades para la investigación en metodologías innovadoras en la educación, con reconocimiento en la conferencia de la asociación latinoamericana de investigación en educación en ciencias, integrante del grupo de investigación ECCE de la facultad de educación, así como partícipe en diferentes congresos. Prácticas docentes con experiencia profesional, duración de un año. TFG en investigación desarrollo del pensamiento crítico desde la enseñanza de física.
 
 # Your previous job experiences or volunteer
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Profesora de matemáticas, ciencias de la computación, digitalización.
+      time: 2023 - Present
+      company: Colegio sagrada Familia de Urgel
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          Docente con un alto compromiso socioemocional y profesional para trabajar con alumnos en contextos complejos, compromiso pleno para trabajar en un amplio espectro de asignaturas por mi perfil profesional, así como un compromiso continuado por mejorar mis clases y mi labor docente desde empieza por educar, que me acompaña en mi proceso de formación docente.
 
-          - Bullet point
-          - Bullet point
+          - Profesora
+          - secundaria y bachillerato
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Voluntariado corporativo
+      time: 2023-2023
+      company: Empieza por educar. ONG.
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Apoyo en proyectos: Cambia tu Mundo: apoyo en la coordinación de los eventos
+        finales, apoyo en el análisis y medición del impacto alcanzado, apoyo en la
+        redacción del informe. STEM4Girls/Dow: apoyo en el análisis y medición del
+        impacto alcanzado, apoyo en la redacción del informe.
 
-          - Bullet point
-          - Bullet point
+          - Análisis de datos 
+          - voluntariado
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Profesora de matemáticas, ciencias de la computación, tecnología y digitalización, tutora de diversificación.
+      time: 2022 - 2023
+      company: Colegio Nazaret San Blas.
       # optional
-      company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      company_logo: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Docente con un alto compromiso socioemocional y profesional para trabajar con
+        alumnos en contextos complejos, compromiso pleno para trabajar en un amplio
+        espectro de asignaturas por mi perfil profesional, así como un compromiso
+        continuado por mejorar mis clases y mi labor docente desde empieza por educar,
+        que me acompaña en mi proceso de formación docente.
 
-          - Bullet point
-          - Bullet point
-
+          - Docente
+          - Compromiso social
 # Your project portfolio
 projects:
     intro: >
